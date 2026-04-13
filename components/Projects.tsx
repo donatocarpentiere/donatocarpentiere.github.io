@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { Project, projects } from "@/constants/projects";
-import { motion } from "framer-motion";
+import { motion, Variants } from "framer-motion";
 import { Rocket } from "lucide-react";
 import { useState, useEffect } from "react";
 
@@ -116,7 +116,7 @@ export default function Projects() {
     },
   };
 
-  const itemVariants = {
+  const itemVariants: Variants = {
     hidden: { opacity: 0, y: 30 },
     visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: "easeOut" } },
   };
