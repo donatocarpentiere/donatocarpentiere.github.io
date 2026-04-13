@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "firstName": "Donato",
+    "lastName": "Carpentiere",
+    "roles": ["Full-Stack Developer", "Software Developer", "AI Engineering Student", "Problem Solver"],
+    "tagline": "Computer Engineering student specializing in Artificial Intelligence. I build web applications with modern technologies and a deep passion for clean, scalable code.",
+    "ctaViewWork": "View My Work",
+    "ctaGetInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraph1": "I'm a Computer Engineering student at Università degli Studi \"Guglielmo Marconi\" specializing in Artificial Intelligence, with a strong passion for software development. I work with both front-end and back-end technologies and manage relational databases.",
+    "paragraph2": "With hands-on experience in enterprise environments — from SAP BTP Cloud development to full-stack Angular/Spring Boot applications — I combine academic knowledge with real-world project delivery. I'm driven by curiosity and constantly evolving my hard and soft skills.",
+    "paragraph3": "I have excellent communication and teamwork skills, a deep understanding of both hardware and software systems, and a commitment to staying current with industry trends. When I'm not coding, I enjoy sports and exploring new technologies.",
+    "stats": {
+      "projects": "Projects",
+      "yearsExperience": "Years Experience",
+      "technologies": "Technologies"
+    }
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Technologies and tools I use to bring ideas to life",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools & DevOps"
+    },
+    "moreTechnologies": "More technologies I've worked with",
+    "certifications": "Certifications",
+    "languages": "Languages"
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Projects I've been working on and what's coming next",
+    "featured": "Featured",
+    "featuredTitle": "Featured Projects",
+    "otherTitle": "Other Projects",
+    "inProgress": "Exciting new projects are currently in development. Check back soon!",
+    "viewMore": "Want to see more? Check out my GitHub",
+    "viewGithub": "View GitHub"
+  },
+  "experience": {
+    "title": "My Experience",
+    "subtitle": "My professional journey and career milestones",
+    "current": "Current",
+    "continuousLearning": "Education",
+    "continuousLearningText": "Currently pursuing a Bachelor's degree in Computer Engineering with a focus on Artificial Intelligence at Università degli Studi \"Guglielmo Marconi\". Also holder of a technical diploma in Computer Science (90/100) from I.I.S.S. \"A. Pacinotti\"."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a question or want to collaborate? I'd love to hear from you!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "subjectPlaceholder": "Project Inquiry",
+      "messagePlaceholder": "Tell me about your project...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "contactInfo": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "followMe": "Follow Me",
+    "availableForWork": "Available for Work",
+    "availableForWorkText": "I'm currently open to new opportunities and freelance projects. Let's create something amazing together!"
+  },
+  "footer": {
+    "tagline": "Building scalable, modern web applications with cutting-edge technologies.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "builtWith": "Built with"
+  }
+}

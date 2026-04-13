@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "Chi Sono",
+    "skills": "Competenze",
+    "projects": "Progetti",
+    "experience": "Esperienza",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "firstName": "Donato",
+    "lastName": "Carpentiere",
+    "roles": ["Sviluppatore Full-Stack", "Sviluppatore Software", "Studente di Ingegneria AI", "Problem Solver"],
+    "tagline": "Studente di Ingegneria Informatica specializzato in Intelligenza Artificiale. Costruisco applicazioni web con tecnologie moderne e una grande passione per codice pulito e scalabile.",
+    "ctaViewWork": "I Miei Lavori",
+    "ctaGetInTouch": "Contattami"
+  },
+  "about": {
+    "title": "Chi Sono",
+    "paragraph1": "Sono uno studente di Ingegneria Informatica presso l'Università degli Studi \"Guglielmo Marconi\" con specializzazione in Intelligenza Artificiale e una forte passione per lo sviluppo software. Lavoro con tecnologie front-end e back-end e gestisco database relazionali.",
+    "paragraph2": "Con esperienza pratica in ambienti enterprise — dallo sviluppo su SAP BTP Cloud ad applicazioni full-stack Angular/Spring Boot — unisco conoscenze accademiche a progetti reali. Sono guidato dalla curiosità e evolvo costantemente le mie competenze tecniche e relazionali.",
+    "paragraph3": "Ho ottime capacità comunicative e di lavoro in team, una profonda comprensione di sistemi hardware e software, e la dedizione a rimanere aggiornato sulle tendenze del settore. Quando non programmo, mi dedico allo sport e all'esplorazione di nuove tecnologie.",
+    "stats": {
+      "projects": "Progetti",
+      "yearsExperience": "Anni di Esperienza",
+      "technologies": "Tecnologie"
+    }
+  },
+  "skills": {
+    "title": "Le Mie Competenze",
+    "subtitle": "Tecnologie e strumenti con cui lavoro per dare vita alle idee",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Strumenti & DevOps"
+    },
+    "moreTechnologies": "Altre tecnologie con cui ho lavorato",
+    "certifications": "Certificazioni",
+    "languages": "Lingue"
+  },
+  "projects": {
+    "title": "I Miei Progetti",
+    "subtitle": "I progetti a cui ho lavorato e le novità in arrivo",
+    "featured": "In Evidenza",
+    "featuredTitle": "Progetti in Evidenza",
+    "otherTitle": "Altri Progetti",
+    "inProgress": "Nuovi entusiasmanti progetti sono attualmente in fase di sviluppo. Torna presto a trovarmi!",
+    "viewMore": "Vuoi vedere di più? Dai un'occhiata al mio GitHub",
+    "viewGithub": "Vedi GitHub"
+  },
+  "experience": {
+    "title": "La Mia Esperienza",
+    "subtitle": "Il mio percorso professionale e le tappe della carriera",
+    "current": "Attuale",
+    "continuousLearning": "Formazione",
+    "continuousLearningText": "Attualmente sto conseguendo la Laurea triennale in Ingegneria Informatica con focus su Intelligenza Artificiale presso l'Università degli Studi \"Guglielmo Marconi\". Sono inoltre in possesso di un diploma tecnico in Informatica (90/100) presso l'I.I.S.S. \"A. Pacinotti\"."
+  },
+  "contact": {
+    "title": "Restiamo in Contatto",
+    "subtitle": "Hai una domanda o vuoi collaborare? Mi piacerebbe sentirti!",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "namePlaceholder": "Mario Rossi",
+      "emailPlaceholder": "mario@esempio.com",
+      "subjectPlaceholder": "Richiesta Progetto",
+      "messagePlaceholder": "Raccontami del tuo progetto...",
+      "send": "Invia Messaggio",
+      "sending": "Invio in corso...",
+      "success": "Messaggio inviato con successo! Ti risponderò presto.",
+      "error": "Qualcosa è andato storto. Riprova."
+    },
+    "contactInfo": "Informazioni di Contatto",
+    "email": "Email",
+    "phone": "Telefono",
+    "location": "Posizione",
+    "followMe": "Seguimi",
+    "availableForWork": "Disponibile per Lavoro",
+    "availableForWorkText": "Sono attualmente aperto a nuove opportunità e progetti freelance. Creiamo qualcosa di straordinario insieme!"
+  },
+  "footer": {
+    "tagline": "Costruisco applicazioni web scalabili e moderne con tecnologie all'avanguardia.",
+    "quickLinks": "Link Rapidi",
+    "connect": "Connettiti",
+    "rights": "Tutti i diritti riservati.",
+    "builtWith": "Realizzato con"
+  }
+}
